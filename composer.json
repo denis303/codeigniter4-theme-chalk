@@ -3,7 +3,10 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Denis303\\Chalk\\" : ""
+            "Denis303\\Themes\\Chalk\\" : ""
         }
+    },
+    "require": {
+        "denis303/codeigniter4-liquid": "*"
     }
 }
