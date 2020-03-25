@@ -1,6 +1,6 @@
 # Chalk Theme
 
-Author: https://github.com/nielsenramon/chalk
+Theme author: https://github.com/nielsenramon/chalk
 
 ### Installation
 
